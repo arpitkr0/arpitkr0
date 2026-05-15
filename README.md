@@ -2,6 +2,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=arpitkr0&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/arpitkr0/arpitkr0/languages-output/languages.svg" height="150" alt="languages graph"  />
