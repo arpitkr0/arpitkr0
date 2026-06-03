@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=750&lines=Competitive+Programmer;Java+Developer;Data+Science+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F72D&center=true&vCenter=true&width=750&lines=Competitive+Programmer;Java+Developer;Cpp+Developer;Data+Science+Enthusiast" />
 
 </div>
 
 ## 👨‍💻 About Me
 
 - 🔥 Competitive Programmer
-- 💻 Java & Python Developer
+- 💻 Java, C++ & Python Developer
 - 📊 Exploring Data Science and Machine Learning
 
 ## 🏆 Competitive Programming Profiles
